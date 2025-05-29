@@ -1,37 +1,7 @@
 #EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
-#EXTINF:-1 xui-id="1" tvg-id="" tvg-name="TRANS 7" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__41YjYRYl1Rgg7w_Hjqds7.png" group-title="LOKAL ID HD",TRANS 7
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdn00WuDqrzY7jc79Y8iU17U
-#EXTINF:-1 xui-id="2" tvg-id="" tvg-name="TRANS TV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-EALYMZlvZ0UkpKiRj079h.png" group-title="LOKAL ID HD",TRANS TV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdsjyVjBdV-trZK1BtLvgIeA
-#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-phjaE0bkXev_5r5JXMb8X.png" group-title="LOKAL ID HD",INDOSIAR
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdkN57Es3jQbOjCbRMKH9MFE
-#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="SCTV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-4KMZzWvWuJmtUXX_Pykft.png" group-title="LOKAL ID HD",SCTV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdvNkuGG0Pmj2T8RWpGX2QLQ
-#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="RCTI" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__fdkYCzWlCl3ZXPmfrnH6P.png" group-title="LOKAL ID HD",RCTI
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdoiAJOndgBm_p6WDnox9UaY
-#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="MNC TV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9v9MWDJyTNnNeOTP4Dh-72.png" group-title="LOKAL ID HD",MNC TV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdo1JEZAv2lL290iGqW75mFE
-#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="GTV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-_W8ecdRUSHxYbxtdS7gSd.png" group-title="LOKAL ID HD",GTV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdn8EPCA-VoR0c4l_QUTQTg0
-#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="iNEWS" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8FUWejrZ49wRlp4xJQJfeI.png" group-title="LOKAL ID HD",iNEWS
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdkwp_lfJpiMh7pJLi_2xXwM
-#EXTINF:-1 xui-id="9" tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8WU9jCdVnmlafq6fxtKhIP.png" group-title="LOKAL ID HD",ANTV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdk1JljF-OBRBwo73yLD673E
-#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="TV ONE" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_92MGjTjupGNOsPUiN2rLYF.png" group-title="LOKAL ID HD",TV ONE
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdoAsxcWvwTg6vgCA-Klolfc
-#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="NET TV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_8Kivl2SNgnx8ScKbVapQev.png" group-title="LOKAL ID HD",NET TV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdqUemxksbgwG8x8IeSP4wv8
-#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="METRO TV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9GLMwPPwqUugDAUiwa6-mm.png" group-title="LOKAL ID HD",METRO TV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdsUPtD1D65LCGEce5Arq1J8
-#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_9mo5Y9Ej8B1PbkVn2qUBu4.png" group-title="LOKAL ID HD",KOMPAS TV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdqbPI99mLh_qtNl1Dc21KZQ
-#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="RTV" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__5KekXvtVqsPZknC4JAgkt.png" group-title="LOKAL ID HD",RTV
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdvE20rQgzdMZ-uwDeNwmoJw
-#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="TVRI" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG__NCjhM1De5wZnpDwaMeshP.png" group-title="LOKAL ID HD",TVRI
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdvbtRPVU0XB4I_z92dVyeFk
-#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://spmid.pw:443/images/JINxDjeXVgNDONUMwYmo3uwjsLDDiQ4pLXl_wRhlG_-A0Dncino4MaNHMbLM-FvcLoUTQGpXwKZwZM5GpzLeTg.png" group-title="LOKAL ID HD",BERITA SATU
-https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdpUfZjgPbYrOSlBWLazRV5o
+
+//mulai dari sini
+
 #EXTINF:-1 xui-id="10894" tvg-id="" tvg-name="TRANS 7 FHD" tvg-logo="https://spmid.pw:443/images/_Mqr7VA-FLPra7zzNOtxLjBTX4PZ5gC9h5CIdWbjKBQLM7o7g74YjImpSVYRMUeXu3j_kYlt7MeqKCt2082s6N6n-OmoOgrSKalQ6LWXMNK1fS3Sjroerc0WryjV1_7joqb8pPzdVEjMJagIJ1Qr5A.png" group-title="LOKAL ID FHD",TRANS 7 FHD
 https://spmid.pw:443/play/yegZ20Bq9byKiYf1J3tZdoHt7-t3TiRa-QRMqieg3Ek
 #EXTINF:-1 xui-id="10895" tvg-id="" tvg-name="TRANS TV FHD" tvg-logo="https://spmid.pw:443/images/_Mqr7VA-FLPra7zzNOtxLjBTX4PZ5gC9h5CIdWbjKBQLM7o7g74YjImpSVYRMUeXu3j_kYlt7MeqKCt2082s6ATinhJ3f_3GJQEvNj79wvqhWrThiHeV3T2nVlJt87quyeY6JrRTOq98Zi2yDi1O4A.png" group-title="LOKAL ID FHD",TRANS TV FHD
