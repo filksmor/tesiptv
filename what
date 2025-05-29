@@ -1302,6 +1302,6 @@ http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 
-#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Tes",TV mbuh
+#EXTINF:-1 tvg-id="tvmbuh.us" tvg-logo="#" group-title="Tes",TV mbuh
 http://extraott.com:80/live/7175313183/6473142259/191869.m3u8
 
