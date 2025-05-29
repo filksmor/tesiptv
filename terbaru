@@ -1209,4 +1209,8 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOZONEUS.m3u8
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/HBOSIGNATUREUS.m3u8
 
 
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="USA",USA Network (East)
+http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="USA",NBC (WNBC New York)
+https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
