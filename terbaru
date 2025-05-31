@@ -1214,3 +1214,9 @@ http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="WNBCDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="USA",NBC (WNBC New York)
 https://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 tvg-id="KMTVDT1.us" tvg-logo="https://i.imgur.com/E4PkyqN.png" group-title="USA",CBS
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+
+#EXTINF:-1 tvg-id="FX.us@East" tvg-logo="https://i.imgur.com/ZScwrpi.png" group-title="USA",FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
